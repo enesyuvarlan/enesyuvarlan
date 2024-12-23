@@ -5,7 +5,7 @@
 <div>
   - 🔭 I’m currently working on [Tech4Peak](https://www.tech4peak.com/)
 
-  - 🌱 I’m currently learning **React and .NET**
+  - 🌱 I’m currently learning **SwiftUI and .NET**
 
   - 👨‍💻 All of my projects are available at [https://github.com/enesyuvarlan](https://github.com/enesyuvarlan)
 
